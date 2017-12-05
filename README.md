@@ -1,6 +1,6 @@
 # ESAASDigitRecognizer
 
-Quick Start  
+#Quick Start  
 
 Installation Steps:  
 
@@ -13,3 +13,10 @@ pip install django djangorestframework pillow django-filter markdown numpy scipy
 cd django_rest_imageupload_backend  
 python manage.py migrate  
 python manage.py runserver # starts the server  
+
+#Requirements 
+Preferable to run on Anaconda command line
+Python 2.7+  
+Django    
+Django Rest Framework  
+Pillow  
