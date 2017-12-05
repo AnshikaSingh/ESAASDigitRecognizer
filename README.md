@@ -29,4 +29,6 @@ Django
 Django Rest Framework  
 Pillow    
   
-# Project Document    
+# Project Document  
+
+Project document is available in the same folder.
