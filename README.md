@@ -4,7 +4,7 @@
 
 Installation Steps:  
 
-git clone https://github.com/AnshikaSingh/ESAASDigitRecognizer/git  
+git clone https://github.com/AnshikaSingh/ESAASDigitRecognizer.git  
 cd ESAASProject  
 mkdir uploaded_media  
 mkvitualenv venv  
@@ -19,4 +19,6 @@ Preferable to run on Anaconda command line
 Python 2.7+  
 Django    
 Django Rest Framework  
-Pillow  
+Pillow    
+  
+#Project Document    
